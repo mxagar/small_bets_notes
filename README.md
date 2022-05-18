@@ -4,5 +4,5 @@ This repository contains my notes and material collected while following the tal
 
 Table of contents:
 
-- `Intro_SEO_Jordan_OConnor.md`
+- [Introduction to SEO, by Jordan O'Connor](Intro_SEO_Jordan_OConnor.md)
 
