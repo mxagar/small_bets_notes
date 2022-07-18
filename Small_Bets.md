@@ -2,12 +2,17 @@
 
 Contents:
 
-1. [The Role of Randomness](#1.-The-Role-of-Randomness)
-2. Bias for Survival
-3. Generating Luck
-4. Making Money
-5. Productivity
-6. Lifestyle Design
+- [Small Bets](#small-bets)
+  - [1. The Role of Randomness](#1-the-role-of-randomness)
+    - [Uncertainty](#uncertainty)
+    - [The Predictable World](#the-predictable-world)
+    - [The Stochastic World](#the-stochastic-world)
+    - [Stochastic Operators](#stochastic-operators)
+    - [The Individual's Portfolio](#the-individuals-portfolio)
+    - [The Individual's Generator](#the-individuals-generator)
+    - [The Individual's Filter](#the-individuals-filter)
+    - [Mapping the Predictable World to the Stochastic World](#mapping-the-predictable-world-to-the-stochastic-world)
+    - [Questions](#questions)
 
 ## 1. The Role of Randomness
 
