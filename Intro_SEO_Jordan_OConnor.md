@@ -13,22 +13,27 @@ No guarantees.
 
 **Table of contents**
 
-- Introduction
-- What is SEO?
-- How people use search engines
-- How Google analyzes the pages
-- The value of SEO
-- Types of SEO
-- What matters in SEO rankings
-- Over 200 Ranking Factors
-- SEO Checklist
-- Google Search Console
-- Ahrefs Demo
-- Producing SEO content
-- Generating backlinks
-- Building an audience and selling
-- Outranking incumbents
-- Links & Personal Notes
+- [Jordan O'Connor - Intro to SEO](#jordan-oconnor---intro-to-seo)
+	- [Introduction](#introduction)
+	- [What is SEO?](#what-is-seo)
+	- [How people use search engines](#how-people-use-search-engines)
+	- [How Google analyzes the pages](#how-google-analyzes-the-pages)
+	- [The value of SEO](#the-value-of-seo)
+	- [Types of SEO](#types-of-seo)
+		- [Volume-based SEO](#volume-based-seo)
+		- [Intent-based SEO](#intent-based-seo)
+		- [Programmatic SEO](#programmatic-seo)
+		- [Local SEO](#local-seo)
+	- [What matters in SEO rankings](#what-matters-in-seo-rankings)
+	- [Over 200 Ranking Factors](#over-200-ranking-factors)
+	- [SEO Checklist](#seo-checklist)
+	- [Google Search Console](#google-search-console)
+	- [Ahrefs Demo](#ahrefs-demo)
+	- [Producing SEO Content](#producing-seo-content)
+	- [Generating Backlinks](#generating-backlinks)
+	- [Building and audience & selling](#building-and-audience--selling)
+	- [Outranking Incumbents](#outranking-incumbents)
+	- [Links & Personal Notes](#links--personal-notes)
 
 ## Introduction
 
