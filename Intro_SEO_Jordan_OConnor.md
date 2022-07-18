@@ -24,7 +24,7 @@ No guarantees.
 - SEO Checklist
 - Google Search Console
 - Ahrefs Demo
-- Producsing SEO content
+- Producing SEO content
 - Generating backlinks
 - Building an audience and selling
 - Outranking incumbents
@@ -65,7 +65,7 @@ As the number of keywords increases, the search is more specific and there is le
 
 Thus, don't target phrases with few keywords.
 
-We want to target the long tail: very specific, longer phrases. The majority of the searches is happenning actually here (> 70%)
+We want to target the long tail: very specific, longer phrases. The majority of the searches is happening actually here (> 70%)
 
 ## How Google analyzes the pages
 
@@ -96,7 +96,7 @@ Very good example: Flavio Copes. Blog & Newsletter; one post per day: [https://f
 
 ### Volume-based SEO
 
-Optimize for more traffic, not more customers. The goal is to atract traffice for selling adds.
+Optimize for more traffic, not more customers. The goal is to attract traffic for selling adds.
 
 For that, the idea would be to target more general keywords, more general and shorter phrases.
 
@@ -125,17 +125,17 @@ Example: size 9.5 marathon running shoes black
 
 Very few people look for those phrases, but we can program modifiers to vary so we have many phrases: size, type, color, etc.
 
-So the idea is to create many URLs prgramatically which point to the same page, the product.
+So the idea is to create many URLs programatically which point to the same page, the product.
 
-He hasn't done it, but people so it. Apparanetly, there is no risk of Google tagging the websites as duplicates.
+He hasn't done it, but people so it. Apparently, there is no risk of Google tagging the websites as duplicates.
 
 ### Local SEO
 
 The goal is to get people to go to our business physically.
 
-We want to ge to the map pack: the map that appears in the Google search. The business optons with the highest reviews appear, with more info, etc.
+We want to be to the map pack: the map that appears in the Google search. The business options with the highest reviews appear, with more info, etc.
 
-NAP = name, address, phone number. We need to have consistency in the Internet; all NAPs related to our business must be the same, otherwise Google starts to misstrust us. This is very important. Thus: update the contant info in Yelp, the Yellow Pages, etc.
+NAP = name, address, phone number. We need to have consistency in the Internet; all NAPs related to our business must be the same, otherwise Google starts to miss-trust us. This is very important. Thus: update the content info in Yelp, the Yellow Pages, etc.
 
 ## What matters in SEO rankings
 
@@ -249,7 +249,7 @@ For building and audience and sell, we should:
 
 - Create great content
 - Provide lead magnets for CTAs: a PDF, a free chapter, etc.
-- We can consider putting a Facebook Pixel. From Google: "The Facebook pixel is a piece of code that you place on your website. It collects data that helps you track conversions from Facebook ads, optimize ads, build targeted audiences for future ads and remarket to people who have already taken some kind of action on your website."
+- We can consider putting a Facebook Pixel. From Google: "The Facebook pixel is a piece of code that you place on your website. It collects data that helps you track conversions from Facebook ads, optimize ads, build targeted audiences for future ads and re-market to people who have already taken some kind of action on your website."
 - Make buying/selling as seamless as possible, automatic
 
 ## Outranking Incumbents
@@ -269,7 +269,7 @@ For building and audience and sell, we should:
 
 [jamesclear.com](jamesclear.com)
 
-Look: follow / no-follow; nofollow tags in the `href` are used to tell Google not to count the link; they are used to avoid spamming. They are typical in Wikipedia refrences, blog comments, twitter, etc.
+Look: follow / no-follow; nofollow tags in the `href` are used to tell Google not to count the link; they are used to avoid spamming. They are typical in Wikipedia references, blog comments, twitter, etc.
 
 
 
