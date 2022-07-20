@@ -154,4 +154,117 @@ We should avoid things that have high running costs: energy, frustration, time, 
 
 Daniel has become good at ignoring opportunities that would take longer than 1 month to bring to market. He tries to create things that can be published in one week.
 
+## 2. Bias for Survival
+
+### Survivorship Bias
+
+Daniel shows two examples of how people miss-understand the random or stochastic world:
+
+- John O'Nolan (Ghost): he said that the key secret was to appear at the office every day even when things were going wrong. That is more an advice for a predictable world, but not for a stochastic world!
+- ConvertKit Founder: he said that one should focus on one thing. But he admitted to having tried many businesses before. Thus, it turns out having a portfolio is fundamental.
+
+The problem is not the advice: the problem is that focusing and persevering is valid for the predictable world!
+
+Similar biased advice:
+
+- Focus on one problem.
+- Just build something useful.
+- Just follow your passion.
+- Just make your product 1% better every day.
+- Just obsess on your customers.
+- Just execute the best idea.
+- Just keep showing up.
+
+### Spotting Survivorship Bias
+
+- Ignore the role of randomness.
+- Cherry picking success from the stochastic world.
+- Believing that what worked, will always work.
+- Believing that what didn't work, will not work. There's a quote over there: "Only fools try the same thing expecting different results"; that quote is not that valid for the stochastic world.
+- Ignoring the Pareto distribution of success. Success is usually distributed following power laws. Daniel shows the creator earnings distribution: less than 1% make the vast majority of the earnings.
+
+Daniel has several products and explains how randomness has affected in their success or failure. The takeaway is that when something fails, we shouldn't waste much time thinking on why this has happened. Examples:
+
+- AWS book: random endorsement by Sahil, the founder of Gumroad.
+- Twitter course: great success, but no endorsement.
+
+Daniel thinks now more self-published books are sold, for instance at Gumroad. It's important to sense what's going on and what's going to happen. However, we should not trust so much ourselves, instead have a small bets portfolio!
+
+Important paper by Taleb: **Understanding is a Poor Substitute for Convexity (Antifragility)**. At the end, he says we don't need to understand why things work/don't work, but instead have a small bets strategy.
+
+Interesting: Daniel estimates company market size by looking at twitter account followers.
+
+### Acquiring Knowledge
+
+- Predictable world
+  - Look at what works for others.
+  - It will almost certainly work for you too.
+- Stochastic world
+  - Hard to separate signal from noise.
+  - Requires probabilistic knowledge.
+  - No understanding necessary.
+
+Probabilistic knowledge: if we want to increase the odds of survival of a plant from another environment, we should try to replicate the environment. Similarly, if we want to succeed with a project, we should try to copy the format of similar projects that succeeded. It could be that it fails, but it's better to try things that worked.
+
+### Why Does This Matter?
+
+Daniel explains several decisions he took, which might not be the best, but he really doesn't know:
+
+- Gumroad landing page for all his products, nothing more, not even a webpage.
+- Everything on Gumroad.
+- ...
+
+Takeaway: The world is complex. 
+
+### Our Case Against Survivorship Bias
+
+- We recognize the role of chance.
+- We don't ignore randomness, but embrace it.
+- Our portfolio strategy is tried and tested for the stochastic world.
+- We encourage predictable activities in the portfolio.
+- In the stochastic world, we acquire knowledge probabilistically.
+
+### A Bias for Survival: The Preppers
+
+When Daniel moved to Seattle 10 years ago, he understood the reasonable approach that the preppers take.
+
+He thinks that the prepper mindset is very powerful:
+
+- Negative visualization.
+- Seek peace of mind.
+- Scope of robustness.
+- Down-side first attitude.
+
+The idea is that we predict what could go very wrong and then plan how to recover from it, or prepare for it - even before it happens. For example: we think we might loose our job, or we have a family and we think we might die.
+
+This way, we prepare and then focus on the upside.
+
+### Avoiding Failure
+
+- Be a prepper. Prepare for the bad to have peace of mind.
+- Beware of the fallback. Daniel tells how he could go back to his 9-5 job when he quit; however, that's risky: he started thinking big with Userbase, risking too much. It's better to think we don't have a fallback: that way our mindset is like: "this needs to work"; thus, we try more bets, smaller.
+- A sense of urgency. Stop playing around and start making money immediately. Daniel tells how he clicked away from the fallback illusion when he realized he didn't want to go back to his job.
+- We are wired to earn every day.
+- Stay with the low-hanging fruit. Don't start with big things, but with easy smaller things.
+
+Daniel tries to continue with his lifestyle; he manages to not go back to the 9-5 worklife.
+
+Having a small win is very useful, because it gives us information and changes our mindset: we have a funnel (views, buys, sales). 
+
+Daniel mentions usually he sees something that works and then he has the idea he could do something similar that works.
+
+### Small Wins
+
+Image of the Survivorship Bias story from the WW2: shot airplanes, etc.
+
+- Not much to learn from failures.
+- Potential for negative knowledge.
+- Small wins bring much ore information.
+- Small wins add capabilities.
+- Success brings with it other success.
+- A string of failures is demotivating.
+
+
+
+
 
