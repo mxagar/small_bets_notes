@@ -264,7 +264,140 @@ Image of the Survivorship Bias story from the WW2: shot airplanes, etc.
 - Success brings with it other success.
 - A string of failures is demotivating.
 
+## 3. Generating Luck
 
+### Luck Recognition
 
+Luck is favorable randomness. To benefit from luck, we must:
 
+- attract luck
+- recognize luck
+
+### Preparation
+
+What knowledge and skills do I possess?
+
+Take stock of your assets:
+
+- Skills
+- Interests, hobbies
+- Knowledge
+- Experience
+- Credentials
+- Connections
+- Capital
+- Reputation
+- Location (place can be an advantage)
+
+Scott Adams talks about talent stock; he says he's a mediocre cartoonist, a mediocre programmer, etc. But the combination of the talents make him uniquely advantageous and he's got a very nice market-product fit.
+
+We should do something similar: we should analyze our assets and see which is the unique combination we offer; then, we try to go that unique way.
+
+Also, when we start analyzing the combinations, we see which skills are missing: we spot knowledge that would give us the needed advantage for that project we have in mind. Daniel gives as an example that he realized he lacked marketing knowledge and reputation.
+
+So:
+
+- Take stock of our assets.
+- Assemble assets stacks.
+- Find what's missing.
+- Acquire missing assets with small bets.
+- Repeat the process periodically. Ideally daily.
+
+Daniel tells how he started answering questions he knew the answer to in Stackoverflow, etc. The first year he tried many different things, like long-form blogging, etc. Now, he basically narrowed down to Twitter.
+
+### Inspiration Generator
+
+An inspiration generator is:
+
+- A catalyst for preparation.
+- An opportunity for serendipity.
+- Find a cocktail party equivalent. For Daniel, that's Twitter. Other people think it's awful and addictive, but he finds many ideas there.
+- Makes randomness your friend.
+
+Daniel tells how he decided to write the short AWS because he saw a tweet of a similar book.
+
+He also shows how some Gumroad courses are just first-view iPhone recorded videos with high information density, often niche topics, and without high-tech gear. That catalyzed his creativity: he thought he could start doing the same! That's when he decided to do his Twitter course: he did it in 16h and ended up being more successful than the AWS book.
+
+Lesson: things are very random and sometimes the information quality & density is more important than the formatting.
+
+Sometimes people sell books that are composed of available blog posts, and the books sell! There is an advantage to having everything in a place, a people seem to value it.
+
+Daniel admits he's a perfectionist, OCD type. He's been working on it in the last years in order to have time-boxed small bets.
+
+Question: are there any assets we should acquire before any small bets? Daniel thinks that **reputation** and **marketing** are essential; without them we cannot get attention and trust towards our product. However, you don't necessarily need a Twitter audience to ship products; we can use other ways like SEO, etc.
+
+Daniel is selective with possible small bets; he chooses things that have a low maintenance effort.
+
+Some sources:
+
+- Twitter: Peter Askew, levelsio, etc.
+- Podcasts: Indie Hackers, Writers on the Side
+- Look for expiring domain names on GoDaddy.com
+
+### Opportunity
+
+Seneca: Luck is when preparation meets opportunity.
+
+- An opportunity is someone wanting something you can do.
+- How do you find these people?
+- And how do you make them choose you?
+- And how do you get many of these opportunities?
+- It boils down to **credibility and attention**.
+
+### Attention and Credibility
+
+There are many ways to get attention, you don't need a media followership.
+
+Attention sources:
+
+- SEO: appear one of the first; it's tough.
+- Ads: pay Google to rank high.
+- Platforms: Youtube, Amazon, Udemy, etc.
+- Website referrals.
+- Followers.
+- Attending conferences.
+- Personal network.
+- Public forums: reddit, etc.
+- Private communities: Discord.
+- Freebies: give something away for free.
+- Word of mouth.
+
+Credibility sources:
+
+- Testimonials.
+- Reputation.
+- Success stories.
+- Skin in the game: the pilot is trusted because he's on the plane, too.
+- Credentials.
+- A good domain name. Good domains matter because when we look for items in Google, we automatically choose the ones that seem more trustworthy -- and in the case of domains, the most credible domain makes it.
+- Selection by a publisher.
+- Selection by an investor.
+- Selection by an employer.
+- Selection by well-known customers.
+- Marketing. Sometimes marketing is a credibility game: seeing a brand on a billboard makes it more credible.
+
+### Learn from Others
+
+- Study the people you listen to.
+- Study the people you buy from.
+- How did they get your attention? Why do we interact with them?
+- Why do you trust them?
+- Examine your own behavior.
+
+### Luck Blindness
+
+- Not knowing your assets.
+- Not having enough assets stacks.
+- Asset stacks not commercially viable.
+- No inspiration generator.
+- No assets that generate attention.
+- No assets that help build credibility.
+- Narrow goals.
+- Too selective; we should have a sense of ethics, but we shouldn't throw away opportunities. Thus, marketing, social media publicizing, etc., maybe deserve a try.
+- Busy schedule. Have some slack in the system, be a little bit unemployed to avoid a busy schedule.
+- Lack of freedom.
+
+Daniel says he's very ruthless when it comes to time-boxing. 
+
+Book recommendation: [Alchemy](https://www.amazon.com/Alchemy-Curious-Science-Creating-Business/dp/006238841X)
 
