@@ -401,3 +401,178 @@ Daniel says he's very ruthless when it comes to time-boxing.
 
 Book recommendation: [Alchemy](https://www.amazon.com/Alchemy-Curious-Science-Creating-Business/dp/006238841X)
 
+
+## 4. X
+
+## 5. Productivity
+
+### Our Nature
+
+We are most productive when we're in harmony with how we're wired. That's a mental model, it's not a scientific fact.
+
+Consider the fact that our species has lived 97% of its 300k years of existence as nomadic hunter-gatherers. Thus, one can understand that we're probably wired in a manner which is aligned with that.
+
+If we take a palm and plant it in Alaska, it's going to be hard for it to grow there; we'll need a lot of work, technology, etc. The palm would have to be grown in a greenhouse, etc. That's also more fragile: if there's a power shortage, it will be cold, etc.
+
+### The Hunter-Gatherer World
+
+Not that we want to go back! But let's analyze how life was back then:
+
+- Most of the time spent doing varied low intensity tasks.
+- Interruptions of bursts of effort; e.g., hunting an animal.
+- High ROI, high leverage work: they probably leveraged nature, i.e., the humans did the smallest amount of effort necessary and let the nature create the resources. Now things have changed: we don't let plants and vegetables grow, we cultivate them; we don't let nature grow animals, we cattle them.
+- No freezers, so impossible to accumulate reserves. Now, we can accumulate.+. Almost no concept of wealth.
+- Conserve energy for big opportunities.
+- Driven by intrinsic motivation.
+- Extremely prudent risks. A minor injury could be catastrophic.
+- Vulnerable to extreme events: weeklong blizzards, infectious diseases, etc. A minor injury could be very catastrophic. Imposter syndrome is probably related to that: we want to keep our reputation and not harm it.
+
+Modern life is probably better. But we are wired in the hunter-gatherer world!
+
+### The Farming World
+
+- Delivers food on-demand, but requires hard work to make the system work.
+- Farming was the first hard work: many things needed to be done now! Wake up early, clean the animal stand, etc. 
+- All the stuff that happened on its own, now needed to be handled by the farmer.
+- Farming allowed unbounded reserves.
+- Wealth emerged.
+- Lifestyle changes.
+- No energy conservation; laziness is bad now, even though we're wired to be lazy.
+- Extrinsic motivation was now the most important driver, not the intrinsic one.
+- Little variation: most days looked similar.
+- Brought down protection: less vulnerable to negative events. Thus, sophistication started to emerge, until we put a man in the moon and invent the iPhone.
+
+So farming changed the world.
+
+Nowadays, we have modern companies instead of small farms. We work for the companies, which build the system. So we work to keep the system running.
+
+### The Modern World
+
+- We have embraced the farming lifestyle.
+- All randomness has been squeezed out in favor of stability and predictability.
+- All high intensity and high ROI activities are smoothed out.
+- Consistent hard work with linear and highly predictable results are the norm
+
+### Productivity Ailments of the Modern World
+
+- We're operating in a world we're not fit for.
+- Ailments:
+  - Procrastination
+  - Motivation
+  - Focus
+  - Chronic anxiety
+  - Consistency
+
+### Procrastination
+
+It seems that it's bad and e should fight it.
+
+Is it so? Or is it useful information?
+
+Daniel suspects that when we start projects that have a randomness component, the subconscious alerts us, it makes us de-motivated; it makes us avoid unpleasant things.
+
+Instead of directly fighting it, we should pause and ask ourselves: 
+
+- Is this a signal that the task is not worth doing?
+- Or maybe we are premature?
+- Or maybe we're doing more than what's necessary?
+
+So, Daniel's suggestions:
+
+- Find what de-motivates us, and do less of it.
+- Find what's important to us in the 80/20 rule. How do we find out the 20%? Maybe procrastination is the key to that: if things are not as important, we tend to ignore them.
+
+We should try to find things that are intrinsically motivating for us.
+
+How can we differentiate procrastination from fear of failure?
+
+The best antidote for that, according to Daniel, is to keep things small.
+
+### Motivation
+
+Hunter-gatherers were driven by intrinsic motivation. Stuff needed to be done, and it was done.
+
+The modern world induces motivation with external rewards or punishments.
+
+Book: Punished by Rewards, by Alfie Kohn.
+
+- Rewards and punishments are two sides of the same coin.
+- We want to find ways to convince people to do things.
+- But: we don't like being controlled.
+- Incentives, bribes, all these are means of control.
+- If we reward kids, too, they end up rebelling.
+- Setting synthetic goals to ourselves doesn't work in the long run, because we identify the synthetic goal.
+- When we are being rewarded, it doesn't work in the long run, because we know it's a mean of control. At some point, we ask ourselves: What's the point?
+
+Similar book: Drive, by Daniel Pink.
+
+Going back to motivation:
+
+- Energy from extrinsic motivation runs out.
+- Variable income is a good stressor. We think that steady paychecks seem to be better than variable income; however, Daniel realized that variation in his income makes him smarter, it motivates him! When his revenues decreases, there's often a jump. Like hunter-gatherers, when food decreases, they are motivated to go hunting. Similarly, he feels more creative and does something. Now, he thinks he's the most creative when his income goes down! [Variable income makes me smarter](https://dvassallo.medium.com/variable-income-makes-me-smarter-80164ac3abd1)
+- Alternate between different things.
+- Intrinsic motivation is free energy.
+
+### Focus
+
+Hunter-gatherers had hyper focus. They abandoned useless pursuits quickly.
+
+Modern life requires persevering through boring stuff for long periods.
+
+Thus, our natural wiring is a problem.
+
+Loosing attention and focus is natural; when we loose focus, we should ask ourselves if it is worth pursuing the task.
+
+There is a hunter-gatherer vs. farmer hypothesis in the explanation of ADHD. The hypothesis says that people with ADHD are maybe people who could not adapt to the farmer world: [Hunter versus farmer hypothesis](https://en.wikipedia.org/wiki/Hunter_versus_farmer_hypothesis).
+
+### Chronic Anxiety
+
+Hunter-gatherers exercised risk taking every day.
+
+Risk taking is a muscle that atrophies when life is too predictable.
+
+The modern world encourages a sure path towards success; as long as you follow a very narrow path.
+
+However:
+
+- We're not wired to feel comfortable on a path with small margins of error.
+- We're not wired to feel comfortable putting all eggs in one basket.
+- We're not wired to feel comfortable taking irreversible one-way paths.
+
+Daniel thinks that our ancestors got used to probabilistic thinking. But modern world takes it away.
+
+We're not built for a perfectly predictable environment. We need stressors, randomness, variation, pleasant surprises.
+
+Anxiety can be a good stressor that guides us. Daniel tells how his journey with anxiety has been: when Userbase didn't seem to work he started worrying that he'd loose all his savings. That's when he started freelancing, diversifying, the AWS course, etc. And things changed. So the worries were a trigger.
+
+Thus, Daniels suggestion is to do things that might have an unpredictable result: blog posts, small projects, etc. We should introduce risk in our lives. Too much of it is not good, but a nice dose is necessary!
+
+Be prudent, though: don't risk important things.
+
+### Consistency
+
+We are taught to persevere. But hunter-gatherers didn't just blindly persevere... If you keep, it's not guaranteed to succeed!
+
+Hunter-gatherers, instead, went for the low-hanging fruits. They did more ambitious things when the odds of success made sense. But perseverance at all costs doesn't make sense.
+
+Consistency for consistency's sake is against our nature.
+
+### Reconsider
+
+A productive environment should resemble the one we're wired for.
+
+When something feels wrong with us, chances are it's in our environment.
+
+trying to fight our wiring is like trying to make a palm tree grow in Alaska.
+
+## 6. Lifestyle Design
+
+
+
+
+
+
+
+
+
+
