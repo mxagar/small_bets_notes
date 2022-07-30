@@ -567,12 +567,114 @@ trying to fight our wiring is like trying to make a palm tree grow in Alaska.
 
 ## 6. Lifestyle Design
 
+We want to improve our lives and the ones of our family.
 
+### Dose-Response Relationship
 
+[Dose–response relationship](https://en.wikipedia.org/wiki/Dose–response_relationship).
 
+Dose and Frequency are important factors in the impact of effects a medicine can have. In fact, they are part of the medicine, they're what makes them useful.
 
+When we say we like something, we mean it with a dose and frequency. If I say I like coffee, probably I don't take it before going to bed.
 
+If we like something, consuming it twice doesn't mean we're going to enjoy it twice. In fact, enjoyment can become negative if we increase dose and frequency.
 
+Daniel tells how he enjoyed computers and tinkering when he was a teenager. But when he started working as a developer, he stopped enjoying it that much; he thinks that was because of a miss-adjustment in the dose and frequency. He's now aware of the fact he can't program for long periods of time very intensely.
 
+Daniel thinks that the 40h/week was an ideal arrangement in factories, but he doubts it makes sense for modern jobs.
 
+Identifying what we like is not enough: we need to experiment with dose and frequency!
+
+Also, be rigorous with the declaration of our preferences: do we really like something? Why do we hate something? Maybe it's not the work what we dislike, but something involved by it, like the commute?
+
+### Too Much Success?
+
+- Dose-response helps identify what is enough.
+- The curve also applies to success.
+- Once you hit certain level, it becomes hard to find satisfaction at lower levels:
+  - No success = bad.
+  - Some success = good.
+  - Extreme success = bad again.
+- Same thing applies to wealth.
+- Passive income is likely against our nature.
+
+Too much of a good thing starts hurting us.
+
+We need to be aware of the [hedonic treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill): when we achieve something, we might want to have the next thing, and it's harder every time. Daniel uses the example of twitter followers.
+
+Daniel thinks we should probably shoot for the middle: aim for some success, not extreme success. He thinks we're attracted to the extremes, but the extremes are sometimes bad. Aim for strategic mediocrity. This applies to wealth, too.
+
+He thinks that passive income is against our nature because there was no such thing in the hunter-gatherer world: we're not wired to live with a passive income.
+
+He thinks that investing systematically to live from the interest rates is something our subconscious mistrusts, because past events don't necessarily predict the future. Additionally, he thinks that people that live like that are always worried of the market.
+
+Daniel thinks it's nice to have an extra passive income, but we should rely on it: if it happens, it's a bonus, but don't expect it to happen!
+
+Daniel is also skeptical from the movement of financial freedom by reducing our consume; he thinks there much to learn from the movement, but it's probably a difficult life.
+
+His point: we have something in our DNA that makes us want to be useful! The 40h/weeks are probably anti-natural, but we want to be useful! We need the right dose and frequency!
+
+Therefore, **passive income is not bad, but treat it as a bonus, not as a goal.** Use active income to validate our actions.
+
+### Surplus Income
+
+This case applies when we make more than we spend; the saving doesn't need to be huge, but having a saving is a surplus.
+
+What should we do then? Save it?
+
+- Wealth hoarders want to save everything. They want to have the largest optionality possible.
+- Wealth preppers save for specific things; for instance, save to be able to live for 6 months, in case they loose their job.
+
+Daniel thinks we should be more like the prepper, because that way we remove our anxiety and live the life. Life doesn't need to be full of options.
+
+Saving for the sake of saving is not meaningful.
+
+### Addition vs. Elimination
+
+Should we try to eliminate something we don't like or add something we think we'll like.
+
+Nassim Taleb thinks the *via negativa* is better: it often is better to remove something we don't like. Elimination is more reliable. There's more reliable information in something we tried.
+
+Example: if I smoke and I want to improve my health, it's better to eliminate smoking than going to the gym.
+
+### What is Work?
+
+- People define work differently:
+  - Make a living
+  - Changing the world
+  - Turning an idea into reality
+  - Accumulation wealth
+  - Gaining status
+  - Create jobs
+- Bare minimum: put food on the table
+- Beyond that, we work to support and improve our lifestyle.
+- We start to believe we have an obligation to work more.
+
+### Lifestyle-First Work
+
+People approach work in the following ways:
+
+- Idea first: they seek big ideals and goals; quite naive.
+- Income first: they seek more money; less naive.
+- Lifestyle first: that's the best way according to Daniel. We try to find work arrangements that fit in our lifestyle.
+
+The 4-Hour workweek by Tim Ferriss is a book on the lifestyle-first approach.
+
+We should work gradually towards our preferred lifestyle.
+
+The only reason to start a business is to improve our life.
+
+## 7. Questions and Discussion
+
+Concepts that were discussed:
+
+- Time-boxing is essential to make small bets.
+- People that have started with small bets but get nice contracts.
+  - She got a contract in a startup that might IPO in some years.
+  - She would be employee number 2 or 3.
+  - She arranged a contract as a freelancer; so it's implied she can do other things, too.
+- Content consumption: Daniel thinks we should get exposed to more randomness to generate more ideas. Until recently Daniel's life was very predictable, but he changed that. It's difficult to filter out the noise, but he thinks he became better at that.
+- 40h/week contracts make difficult to have time for tinkering and exposure to randomness.
+- In SW it seems it's difficult to find projects that can be done in less than 3 months; but Daniel thinks we should try to find the minimum viable concept and grow it if it works. For instance [NomadList](https://nomadlist.com) started as a Google spreadsheet.
+- Community and reputation building. Daniel started with software topics in Stackoverflow & Co., but he gravitated to Twitter. That shouldn't be necessarily the way to go for everyone; the point is: we should try different things and find our niche.
 
