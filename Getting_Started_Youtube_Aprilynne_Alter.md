@@ -11,9 +11,4 @@ Aprilynne's Youtube channel:
 Mikel Sagardia, 2022.07.08
 No guarantees.
 
-**Table of contents**
-
-1. Introduction
-
-## 1. 
-
+:construction:
